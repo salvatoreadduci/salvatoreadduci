@@ -1,10 +1,10 @@
 # Hi there, I'm Salvatore Adduci
 
-##About me
+## About me
 I'm pursuing a Master's degree in Cybersecurity and Artificial Intelligence at the University of Calabria (UNICAL).
 I love to learn anything about cyber security!
 
-##Skills
+## Skills
 - **Project Management:** Agile Development, Scrum, TDD, Git, Jira
 - **Back-end:** Django, REST API, SQL
 - **Programming:** Python, Java, Javascript, C, C++, PHP, Kotlin
